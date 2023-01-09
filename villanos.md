@@ -2,4 +2,4 @@
 
 * Mr. Doom
 * Red Skull
-* Dr. Hermcode
+* Capitán América
